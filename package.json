@@ -1,0 +1,23 @@
+{
+  "name": "typescript-sequelize-express-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kb4ek/ts_express-sequelize-template.git",
+  "author": "kb4ek <kbaek1202@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.3",
+    "@types/morgan": "^1.9.0",
+    "@types/sequelize": "^4.28.8"
+  }
+}
